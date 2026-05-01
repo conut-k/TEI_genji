@@ -39,11 +39,7 @@
             <respStmt>
                <resp>Parallel encoding</resp>
                <name when="2026-05-01">浅田かんな</name>
-            </respStmt> 
-            <respStmt>
-               <resp>Parallel encoding</resp>
-               <name when="2026-05-01">小野航大</name>
-            </respStmt> 
+            </respStmt>  
          </titleStmt>
          <publicationStmt>
             <distributor>デジタル源氏物語</distributor>
